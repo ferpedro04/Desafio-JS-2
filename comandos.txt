@@ -1,0 +1,4 @@
+para criar uma variavel com o JS, utilizamos o comando 'let'
+prompt = dá a possibilidade do usúario escrever algo
+// comenta o código
+` ${} serve para utilizar uma função em uma frase - equivalente o f'frase(funcao)' no python 
